@@ -1,0 +1,14 @@
+Business Problem Statement - Maverik
+Group: Here for the Cinnabon
+
+Maverick needs an accurate daily forecast of sales KPIs for a new store's first year of sales. Achieving this allows for more effective financial 
+planning and accurate ROI documents. This project will be a success if it is able to yield a better forecast than the current model. Stakeholders will 
+measure success with error rate RMSE, MAPE, model fit (AIC &, R²), and overall accuracy. This is a supervised regression problem where the predictors 
+involve both categorical and numerical variables, and the target are four sales metrics. In order to solve this problem, we will conduct exploratory 
+data analysis, train forecasting models like XGBoost machine learning and ARIMA time-series, evaluate models on success metrics and provide predictions 
+using the chosen model.
+
+The deliverable will be a predictive model that produces daily sales forecasts for each sales metric. This model will consider store features, 
+seasonality, as well as having capability to process new data and re-forecast. This project will be executed by Biva Sherchan, Roman Brock, 
+Bhoomika John Pedely and Pablo Zarate. We will submit our exploratory data analysis on October 8, 2023, and a notebook of the forecasting model on 
+November 5, 2023. We will deliver a presentation of our findings to Maverick on November 30, 2023.
