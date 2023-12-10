@@ -1,6 +1,6 @@
 # Business problem and project objective.
 
-Maverick needs an accurate daily forecast of sales KPIs for a new store's first year of sales. Achieving this allows for more effective financial planning and accurate ROI documents. This project will be a success if it is able to yield a better forecast than the current model. Stakeholders will measure success with error rate (MAPE) and RMSE. This is a supervised regression problem where the predictors involve both categorical and numerical variables, and the target are four sales metrics. 
+Maverik needs an accurate daily forecast of sales KPIs for a new store's first year of sales. Achieving this allows for more effective financial planning and accurate ROI documents. This project will be a success if it is able to yield a better forecast than the current model. Stakeholders will measure success with error rate (MAPE) and RMSE. This is a supervised regression problem where the predictors involve both categorical and numerical variables, and the target are four sales metrics. 
 
 We created a rolling window forecast ```Prophet``` model that produces daily predictions for a given horizon period (365 days). This model takes into account new sales data, and re-trains the model to produce a more accurate prediction every day. Using this rolling forecast prophet model Maverik can predict the store sales for a new store and be able to create an effective and accurate financial plan and ROI documents.
 
