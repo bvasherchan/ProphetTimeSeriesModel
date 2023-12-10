@@ -10,7 +10,7 @@ In this project all the members of our team met on a regular basis to collaborat
 
 Below are the materials from this project.
 
-1. [Business Problem Statement](Maverick_ Business Problem Statement.docx)
+1. [Business Problem Statement](BusinessProblemStatement)
 2. [Modeling Notebook](https://github.com/bvasherchan/ProphetTimeSeriesModel/blob/main/ProphetModel.ipynb)
-3. [Presentation slides](Maverik Revenue Forecast Slides.pdf)
+3. [Presentation slides](https://github.com/bvasherchan/ProphetTimeSeriesModel/blob/main/Maverik%20Revenue%20Forecast%20Slides.pdf)
 
